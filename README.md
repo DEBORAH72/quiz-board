@@ -1,8 +1,9 @@
- {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+ {QUIZ BOARD}
+#### {An application to test my knowledge on JS }, {Date of current version}
+#### By **{Elsie Deborah M}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{Learning JavaScript at Moringa School prep requires the setting up of an application using HTML,CSS and JavaScript.
+This particular application allow the user to do a quiz online, submit it and then be informed how they performed.. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
