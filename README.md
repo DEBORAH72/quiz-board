@@ -2,21 +2,71 @@
 #### {An application to test my knowledge on JS }, {Date of current version}
 #### By **{Elsie Deborah M}**
 ## Description
-{Learning JavaScript at Moringa School prep requires the setting up of an application using HTML,CSS and JavaScript.
-This particular application allow the user to do a quiz online, submit it and then be informed how they performed.. }
+{Learning JavaScript at Moringa School requires the setting up of an application using HTML,CSS and JavaScript.
+This particular application allow the user to do a quiz online, submit it and then be informed how they performed.. 
+The application also the tells the user how they did on the test, how many corect answers they got and the way forward.
+You can take a look at it and let me know any changes I should make or any suggestions you maybe having or how I should make my functions better and make the website more appealing. Thank you in advance.}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+## BDD
+#### Want to test how I did this project?
+##### Here are the specs:
+*The program should return when all the questions are not answered
+
+    Input:nothing
+
+    Output: please answer all the questions
+
+*The program should tell the user is required to fill in their details for:
+
+    Name:
+    
+    Email:
+
+    Date:
+
+*The Program allows the user to make only one choice among three choices, it does not accept 2 choices
+
+*The Program assigns +16.67 when the answer is correct and a +0 when the answer is wrong.
+   
+*The Program then adds up all the answers and gives the user a grade.
+
+*The program show a picture along with grade. 
+
+*The program allows a user to retake the test. 
+ 
+
+## Setup
+#### Want to help Me learn more? Great!
+##### To Make changes follow these steps:
+*Fork the repo
+
+*Make a new branch
+
+*Add changes to reflect the changes made
+
+*Commit your changes
+
+*Push to the branch
+
+*Create a pull request
+
+## Technologies used:
+
+*HTML
+
+*CSS
+
+*JavaScript
+
+*jQuery
+
+*Markdown
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
-## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
-## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{So far there are no known bugs or issues only that i will allow you to add more questions and test . }
+### To contact use:
+
+*email: elsiedeby@gmail.com
+##live link https://DEBORAH72.github.io/Week-two-akan-names
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*{We are an open source software company licensed current is pubic.keep it short and cool.  See below for more details on licensing.}*
+Copyright (c) {2022} **{debycreations}**
