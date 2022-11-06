@@ -1,5 +1,5 @@
  {QUIZ BOARD}
-#### {An application to test my knowledge on JS }, {Date of current version}
+#### {An application to test my knowledge on JS }, {As at Nov 2022}
 #### By **{Elsie Deborah M}**
 ## Description
 {Learning JavaScript at Moringa School requires the setting up of an application using HTML,CSS and JavaScript.
