@@ -69,5 +69,5 @@ You can take a look at it and let me know any changes I should make or any sugge
 ### live link 
 https://DEBORAH72.github.io/quiz-board
 ### License
-*{We are an open source software company licensed current is pubic.keep it short and cool.  See below for more details on licensing.}*
+*{We are an open source software company licensed current is public.keep it short and cool.  See below for more details on licensing.}*
 Copyright (c) {2022} **{debycreations}**
