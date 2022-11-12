@@ -69,6 +69,6 @@ $(document).ready(function() {
 		function myFunction() {
 			document.getElementById("retake").style.visibilty = "visible";
 		}
-		event.preventDefault();
-	});
-});
+		Event.preventDefault();
+	};
+};
