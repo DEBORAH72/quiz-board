@@ -2995,8 +2995,8 @@ html {
   }
   .has-error .input-group-addon {
     color: #a94442;
-    background-color: #f2dede;
-    border-color: #a94442;
+    background-color: #370f0f;
+    border-color: #4283a9;
   }
   .has-error .form-control-feedback {
     color: #a94442;
